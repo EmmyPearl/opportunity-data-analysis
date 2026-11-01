@@ -44,9 +44,9 @@ location distribution, and year-on-year growth trends.*
 
 Full week-by-week work packages will be uploaded here.
 
-- Week 1 — Data Understanding & Preparation *(uploading soon)*
-- Week 2 — Exploratory Data Analysis *(uploading soon)*
-- Week 3 — Dashboard Development & Insights *(uploading soon)*
+- Week1_Data_Understanding_and_Preparation.docx
+- Week2_Exploratory_Data_Analysis.docx
+- Week3_Dashboard_Development_and_Insights.pdf
 
 ---
 
