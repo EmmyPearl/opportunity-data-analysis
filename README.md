@@ -33,7 +33,7 @@ Full pipeline: data profiling → cleaning → EDA → dashboard → stakeholder
 
 ## Dashboard Preview
 
-![Opportunity Data Analysis Dashboard](opportunity_dashboard.png)
+![Opportunity Data Analysis Dashboard](opportunity_dashboard.png.jpeg)
 
 *Built in Power BI and Excel. Visualises opportunity categories, median scholarship by type,
 location distribution, and year-on-year growth trends.*
