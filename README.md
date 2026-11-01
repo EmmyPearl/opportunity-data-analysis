@@ -27,7 +27,7 @@ Full pipeline: data profiling → cleaning → EDA → dashboard → stakeholder
 - **Peak platform activity:** July 2023 with 1,052 new opportunities in a single batch
 - **Highest scholarship categories:** Competition, Course, Masterclass (median value: 100 each)
 - **Location breakdown:** Work From Home (460), Virtual (365), Not Specified (299)
-- Opportunity creation peaked in 2023 then declined gradually through 2025–2026
+- Opportunity creation peaked in 2023, then declined gradually through 2025–2026
 
 ---
 
@@ -42,11 +42,9 @@ location distribution, and year-on-year growth trends.*
 
 ## Project Documentation
 
-Full week-by-week work packages will be uploaded here.
-
-- Week1_Data_Understanding_and_Preparation.docx
-- Week2_Exploratory_Data_Analysis.docx
-- Week3_Dashboard_Development_and_Insights.pdf
+- [Week 1 — Data Understanding & Preparation](Week1_Data_Understanding_and_Preparation.docx)
+- [Week 2 — Exploratory Data Analysis](Week2_Exploratory_Data_Analysis.docx)
+- [Week 3 — Dashboard Development & Insights](Week3_Dashboard_Development_and_Insights.pdf)
 
 ---
 
@@ -56,4 +54,4 @@ Real opportunity platform data provided through the Excelerate internship progra
 
 ---
 
-*Part of the Excelerate Data Visualization Trainee Early Remote Internship Programme.*
+*Part of the Excelerate Data Visualisation Trainee Early Remote Internship Programme.*
